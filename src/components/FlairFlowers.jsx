@@ -92,7 +92,7 @@ const FlairFlowers = () => {
       .to(shape, {
         y: '120vh',
         ease: 'back.in(1.7)',
-        duration: 1
+        duration: 1.75
       }, 0);
     };
 
